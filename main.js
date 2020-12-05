@@ -11,3 +11,7 @@ function fs() {
 function secondF() {
   console.log('second func')
 }
+
+function thirdF() {
+  console.log('second func')
+}
