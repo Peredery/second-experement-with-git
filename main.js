@@ -15,4 +15,5 @@ function secondF() {
 function thirdF() {
   console.log('second func')
   console.log('second func')
+  console.log('second func')
 }
