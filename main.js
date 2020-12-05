@@ -7,3 +7,7 @@ function f() {
   console.log('new 3222 ');
   console.log('new 32224 ');
 }
+
+function secondF() {
+  console.log('second func')
+}
