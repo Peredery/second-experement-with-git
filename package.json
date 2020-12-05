@@ -18,7 +18,8 @@
   "homepage": "https://github.com/Peredery/second-experement-with-git#readme",
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
-    "@commitlint/config-conventional": "^11.0.0"
+    "@commitlint/config-conventional": "^11.0.0",
+    "husky": "^4.3.4"
   },
   "husky": {
     "hooks": {
