@@ -15,5 +15,8 @@ function secondF() {
 function thirdF() {
   console.log('second func')
   console.log('second func 2')
+<<<<<<< HEAD
   console.log('second func 3')
+=======
+>>>>>>> dd7840f (fixup! feat: a new third func)
 }
