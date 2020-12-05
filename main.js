@@ -14,16 +14,4 @@ function secondF() {
 
 function thirdF() {
   console.log('second func')
-<<<<<<< HEAD
-<<<<<<< HEAD
-  console.log('second func 2')
-<<<<<<< HEAD
-  console.log('second func 3')
-=======
->>>>>>> dd7840f (fixup! feat: a new third func)
-=======
->>>>>>> f74087e (feat: a new third func)
-=======
-  console.log('second func 2')
->>>>>>> dd7840fe8c9075fb02d1366a187144ac3182373a
 }
