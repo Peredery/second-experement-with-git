@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.1](https://github.com/Peredery/second-experement-with-git/compare/v1.0.0...v1.0.1) (2020-12-05)
+
+
+### Bug Fixes
+
+* fix someFunc ([5ac1b5e](https://github.com/Peredery/second-experement-with-git/commit/5ac1b5e0d097520489c417bbfab60fcb029b33d3))
+
 ## 1.0.0 (2020-12-05)
 
 
