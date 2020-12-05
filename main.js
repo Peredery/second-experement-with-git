@@ -17,4 +17,5 @@ function thirdF() {
   console.log('second func')
   console.log('second func')
   console.log('second func #4')
+  console.log('second func #5')
 }
